@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nodejs-app.iml" filepath="$PROJECT_DIR$/.idea/nodejs-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nodejs-app-mygit.iml" filepath="$PROJECT_DIR$/.idea/nodejs-app-mygit.iml" />
     </modules>
   </component>
 </project>
